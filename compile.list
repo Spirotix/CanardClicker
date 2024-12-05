@@ -1,0 +1,8 @@
+./code/ControleurCanardClicker.java
+
+./code/metier/GenerationCanard.java
+./code/metier/GestionBruitage.java
+
+./code/ihm/FrameCanardClicker.java
+./code/ihm/PanelAmelioration.java
+./code/ihm/PanelCanardGeant.java
