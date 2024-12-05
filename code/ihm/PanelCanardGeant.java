@@ -54,7 +54,7 @@ public class PanelCanardGeant extends JPanel implements ActionListener
 			ctrl.clickCanard();
 			this.ctrl.majIHM();
 			this.nbClick += 1;
-			this.ctrl.bruitage( "coinc" );
+			this.ctrl.bruitage( "Coinc" );
 		}
 	}
 }
