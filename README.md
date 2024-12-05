@@ -1,7 +1,7 @@
 
 # CanardClicker
 
-CanardClicker est un jeu de type clicker où les joueurs interagissent avec des canards pour progresser et débloquer des améliorations. Ce projet est structuré en plusieurs dossiers et fichiers pour faciliter son développement et sa maintenance.
+CanardClicker est un jeu de type clicker où les joueurs interagissent avec un canard pour progresser et débloquer des améliorations. Ce projet est structuré en plusieurs dossiers et fichiers pour faciliter son développement et sa maintenance.
 
 ---
 
